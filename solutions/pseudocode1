@@ -1,0 +1,11 @@
+<!-- Initialize an empty object to create an empty object to keep track of letter counts.
+
+Count the Occurrences of Each Letter ,Loop through each letter in the input string S.
+If the letter is already in letterCount, the count should increment if not , the count should be 1.
+
+set up a counter to keep track of the number of letters to delete.
+
+Check for Odd Counts if the count of a letter is not odd,  deleteCount should increment.
+
+Return deleteCount:
+
