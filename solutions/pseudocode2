@@ -1,0 +1,5 @@
+# Function solution(S):
+# Initialize Variables
+# Loop through the String and Fragments
+# Calculate Current Sum and Update Largest Sum
+# Return Largest Sum
